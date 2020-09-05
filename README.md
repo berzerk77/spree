@@ -86,7 +86,7 @@ In order to enhance our ability to provide relevant marketing, offers and servic
 
 
 
-2. HOW DO WE USE YOUR INFORMATION?
+### 2. HOW DO WE USE YOUR INFORMATION?
 
 In Short:  We process your information for purposes based on legitimate business interests, the fulfillment of our contract with you, compliance with our legal obligations, and/or your consent.
 
@@ -110,7 +110,7 @@ To manage user accounts. We may use your information for the purposes of managin
 
 
 
-3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
+### 3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
 
 In Short:  We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations.
 
@@ -130,7 +130,7 @@ Business Transfers. We may share or transfer your information in connection with
 Other Users. When you share personal information (for example, by posting comments, contributions or other content to the App) or otherwise interact with public areas of the App, such personal information may be viewed by all users and may be publicly made available outside the App in perpetuity. If you interact with other users of our App and register for our App through a social network (such as Facebook), your contacts on the social network will see your name, profile photo, and descriptions of your activity. Similarly, other users will be able to view descriptions of your activity, communicate with you within our App, and view your profile.
 
 
-4. HOW DO WE HANDLE YOUR SOCIAL LOGINS?
+### 4. HOW DO WE HANDLE YOUR SOCIAL LOGINS?
 
 In Short:  If you choose to register or log in to our services using a social media account, we may have access to certain information about you.
 
@@ -140,7 +140,7 @@ We will use the information we receive only for the purposes that are described 
 
 
 
-5. HOW LONG DO WE KEEP YOUR INFORMATION?
+### 5. HOW LONG DO WE KEEP YOUR INFORMATION?
 
 In Short:  We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law.
 
@@ -149,7 +149,7 @@ We will only keep your personal information for as long as it is necessary for t
 When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
 
 
-6. HOW DO WE KEEP YOUR INFORMATION SAFE?
+### 6. HOW DO WE KEEP YOUR INFORMATION SAFE?
 
 In Short:  We aim to protect your personal information through a system of organizational and technical security measures.
 
@@ -157,7 +157,7 @@ We have implemented appropriate technical and organizational security measures d
 
 
 
-7. WHAT ARE YOUR PRIVACY RIGHTS?
+### 7. WHAT ARE YOUR PRIVACY RIGHTS?
 
 In Short:  You may review, change, or terminate your account at any time.
 
@@ -186,13 +186,13 @@ Opting out of email marketing: You can unsubscribe from our marketing email list
 
 
 
-8. CONTROLS FOR DO-NOT-TRACK FEATURES
+### 8. CONTROLS FOR DO-NOT-TRACK FEATURES
 
 Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track (“DNT”) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage, no uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy notice.
 
 
 
-9. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+### 9. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
 
 In Short:  Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information.
 
@@ -328,7 +328,7 @@ you may request to opt-out from future selling of your personal information to t
 To exercise these rights, you can contact us by email at berzerkcustomerservice@gmail.com, or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.
 
 
-10. DO WE MAKE UPDATES TO THIS NOTICE?
+### 10. DO WE MAKE UPDATES TO THIS NOTICE?
 
 In Short:  Yes, we will update this notice as necessary to stay compliant with relevant laws.
 
@@ -336,7 +336,7 @@ We may update this privacy notice from time to time. The updated version will be
 
 
 
-11. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+### 11. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
 If you have questions or comments about this notice, you may email us at berzerkcustomerservice@gmail.com or by post to:
 
@@ -346,7 +346,7 @@ Nairobi, Nairobi County 60200
 Kenya
 
 
-HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
+### HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
 Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please submit a request form by clicking here. We will respond to your request within 30 days.
 This privacy policy was created using Termly’s Privacy Policy Generator.
