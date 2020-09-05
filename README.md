@@ -16,7 +16,7 @@ Please read this privacy notice carefully as it will help you understand what we
 
 ## TABLE OF CONTENTS
 
-**1. WHAT INFORMATION DO WE COLLECT?
+**1. WHAT INFORMATION DO WE COLLECT?**
 
 2. HOW DO WE USE YOUR INFORMATION?
 
