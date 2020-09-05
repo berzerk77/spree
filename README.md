@@ -1,6 +1,6 @@
 
-PRIVACY NOTICE
-Last updated September 04, 2020
+## PRIVACY NOTICE
+>Last updated September 04, 2020
 
 
 
