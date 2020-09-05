@@ -1,5 +1,5 @@
 
-## PRIVACY NOTICE
+# PRIVACY NOTICE
 >Last updated September 04, 2020
 
 
@@ -40,7 +40,7 @@ Please read this privacy notice carefully as it will help you understand what we
 
 
 
-# 1. WHAT INFORMATION DO WE COLLECT?
+### 1. WHAT INFORMATION DO WE COLLECT?
 
 
 Personal information you disclose to us
